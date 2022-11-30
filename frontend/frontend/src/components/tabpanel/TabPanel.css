@@ -1,0 +1,26 @@
+.tabs{
+    width: 15%;
+    margin-top: 60px;
+    height: 80vh;
+    padding-top: 0px; 
+}
+ 
+.tablist{
+    padding: 30px !important;
+    
+}
+.tablist:hover{
+    background-color: #d8e2ec;
+}
+.tablist:focus{
+    background-color: #acc4dd;
+}
+.tablist:active{
+    background-color: #8cafd3;
+}
+.tabpanelList{
+    padding-top: 40px;
+    background-color:#acc4dd ;
+    width: 85%;
+    height: 85vh; 
+}

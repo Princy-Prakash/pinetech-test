@@ -1,0 +1,28 @@
+.appbar{
+    padding: 20px;
+    background-color: #4e96df !important;
+    box-shadow: none !important; 
+}
+button.loginButton{
+    float: right;
+    background-color: white;
+    border: none;
+   width: 100px;
+   height: 30px;
+   margin-right: 20px;
+    cursor: pointer;
+    font-size: 15px;
+}
+button.loginButton:hover{ 
+    border-radius: 20px;
+     
+}
+li.loginListitem{
+   list-style: none;
+   text-align: left;
+   padding: 10px 0;
+   text-decoration: none;
+}
+li.loginListitem:hover{
+    text-decoration: none !important;
+}

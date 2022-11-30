@@ -1,0 +1,57 @@
+button.submit{
+    padding: 10px 0px;
+ margin-top: 30px !important  ;
+    width: 300px;
+  border-radius: 5px;
+  border: none;
+   margin-left: 0px !important;
+   background-color: black;
+   color: white;
+   font-size: 20px;
+}
+h1.signHead{
+    text-align: center;
+  }
+  .appContainer{
+    width: 1000px;
+    align-self: center;
+    margin: auto;  
+    border-radius: 10px;
+     box-shadow: 2px 2px 8px 4px rgb(154, 151, 154); 
+     margin-bottom: 100px;
+  }
+  img.signImage{
+     width: 400px;
+     border-radius: 10px;
+     margin-top: 80px;
+     margin-left: 40px;
+  }
+  form{
+    padding: 20px 0;
+    background-color: rgb(248, 171, 181);
+    height: 570px  ; 
+    border-radius: 0 10px 10px 0px; 
+  }
+  .formSignup{
+    justify-content: center;
+    align-self: center;
+    display: flex;
+    margin: 40px 10px; 
+  }
+  input{ 
+    padding:10px  10px;
+    margin: 20px 0px;
+    width: 300px;
+  border-radius: 5px;
+  border: none;
+  height: 30px; 
+  }
+  input::placeholder{
+  transform: translateX(10px);
+  }
+  span.form-input-label{
+position: absolute;
+margin-top: 100px;
+margin-left: -300px;
+  }
+   
